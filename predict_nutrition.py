@@ -8,7 +8,7 @@ from PIL import Image
 
 # --- Configuration ---
 # IMPORTANT: Update this path to where your fine-tuned model is saved
-FINETUNED_MODEL_PATH = "/users/eleves-b/2023/georgii.kuznetsov/CNN_nutrition/results_finetuned/best_finetuned_combined_model.pth"
+FINETUNED_MODEL_PATH = "./best_finetuned_combined_model.pth"
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 # --- Model Definitions (Must match the architecture of the saved model) ---
