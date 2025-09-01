@@ -26,6 +26,9 @@ To run a prediction on a single dish image, use:
 ```
 python predict_nutrition.py --image lunch_photo.jpg
 ```
+## Credits
+We thank the Google Research team that worked on the Nutrition5k dataset, which provides comprehensive visual and nutritional data for approximately 5,000 real-world dishes, for making this project possible.
+The dataset is released under the Creative Commons 4.0 license at https://github.com/google-research-datasets/Nutrition5k
 
 ## Citation
 
