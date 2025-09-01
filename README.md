@@ -27,4 +27,17 @@ To run a prediction on a single dish image, use:
 python predict_nutrition.py --image lunch_photo.jpg
 ```
 
+## Citation
 
+``` bibtex
+@misc{kuznetsov_agouzoul_salakhutdinov2025foodcnn,
+  title        = {FoodCNN: Zero-shot nutrition estimation from a single food photo},
+  author       = {Kuznetsov, Georgii and Agouzoul, Ayoub and Salakhutdinov, Georgy},
+  year         = {2025},
+  institution  = {École Polytechnique (X)},
+  howpublished = {https://github.com/FoodCNN/FoodCNN},
+  note         = {MIT},
+  abstract     = {Given a single photo of a plated dish, FoodCNN predicts dish weight, calories,
+                  fat, carbs, and protein. Trained using the Nutrition5K dataset.}
+}
+```
