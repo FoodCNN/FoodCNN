@@ -510,8 +510,8 @@ if __name__ == "__main__":
     LOCAL_BASE_DIR_MAIN = ARGS.base_dir
     IMAGERY_BASE_DIR_MAIN = os.path.join(LOCAL_BASE_DIR_MAIN, "imagery")
     OVERHEAD_IMAGERY_DIR_MAIN = os.path.join(IMAGERY_BASE_DIR_MAIN, "realsense_overhead")
-    SIDE_ANGLES_IMAGERY_DIR_MAIN = os.path.join(IMAGERY_BASE_DIR_MAIN, "side_angles")
-    SIDE_ANGLES_SUBDIR_NAME_MAIN = "extracted_frames"
+    SIDE_ANGLES_IMAGERY_DIR_MAIN = os.path.join(IMAGERY_BASE_DIR_MAIN, "")
+    SIDE_ANGLES_SUBDIR_NAME_MAIN = "merged_extracted_filtered"
     METADATA_FILE_CAFE1_MAIN = os.path.join(LOCAL_BASE_DIR_MAIN, "metadata/dish_metadata_cafe1.csv")
     METADATA_FILE_CAFE2_MAIN = os.path.join(LOCAL_BASE_DIR_MAIN, "metadata/dish_metadata_cafe2.csv")
     RGB_IMAGE_FILENAME_MAIN = "rgb.png" # For overhead
