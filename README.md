@@ -5,6 +5,8 @@ Deep learning models to predict dish weight, calories, and macronutrients (fat, 
 
 Authors: Georgy Salakhutdinov, Georgii Kuznetsov, Ayoub Agouzoul  
 École Polytechnique (X), 2025
+- [Slides (PDF)](Slides.pdf) – project presentation
+- [Report (PDF)](report/FoodCNN_Report.pdf) – full technical report
 
 ## Abstract
 
@@ -25,6 +27,4 @@ To run a prediction on a single dish image, use:
 python predict_nutrition.py --image lunch_photo.jpg
 ```
 
-## Resources
-- [Slides (PDF)](Slides.pdf) – project presentation
-- [Report (PDF)](report/FoodCNN_Report.pdf) – full technical report
+
