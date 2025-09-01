@@ -14,7 +14,7 @@ Keeping track of our food intake can still feel like a chore, even with so many 
 
 ## Example Output
 
-![Example Prediction](assets/example_prediction.png)
+![Example Prediction](assets/example_prediction.jpg)
 
 *From a single dish photo, FoodCNN predicts the dish weight and macronutrient composition per 100g, then combines them to obtain the total calories and nutrients.*
 
