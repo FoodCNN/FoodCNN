@@ -6,7 +6,7 @@ Deep learning models to predict dish weight, calories, and macronutrients (fat, 
 Authors: Georgy Salakhutdinov, Georgii Kuznetsov, Ayoub Agouzoul  
 École Polytechnique (X), 2025
 - [Slides (PDF)](Slides.pdf) – project presentation
-- [Report (PDF)](report/FoodCNN_Report.pdf) – full technical report
+- [Report (PDF)](report.pdf) – full technical report
 
 ## Abstract
 
@@ -19,6 +19,8 @@ Keeping track of our food intake can still feel like a chore, even with so many 
 ![Example Prediction](assets/example_prediction.jpg)
 
 *From a single dish photo, FoodCNN predicts the dish weight and macronutrient composition per 100g, then combines them to obtain the total calories and nutrients.*
+
+*Image source: [Nutrition5k dataset (Google Research)](https://github.com/google-research-datasets/Nutrition5k), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 ## Usage
 
