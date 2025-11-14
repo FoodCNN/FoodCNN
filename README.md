@@ -6,7 +6,7 @@ Deep learning models to predict dish weight, calories, and macronutrients (fat, 
 Authors: Georgy Salakhutdinov, Georgii Kuznetsov, Ayoub Agouzoul  
 École Polytechnique (X), 2025
 - [Slides (PDF)](Slides.pdf) – project presentation
-- [Report (PDF)](report.pdf) – full technical report
+- [Report (PDF)](report.pdf) – technical report draft
 
 ## Abstract
 
